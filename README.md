@@ -1,1 +1,1 @@
-# Worker-service de busca de cotação dollar site : https://economia.awesomeapi.com.br/
+# Worker-service de busca de cotação dólar site : https://economia.awesomeapi.com.br/
